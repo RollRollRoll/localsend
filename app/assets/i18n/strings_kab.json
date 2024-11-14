@@ -1,0 +1,57 @@
+{
+  "general": {
+    "copiedToClipboard": "Yettwanɣel ɣef afus",
+    "open": "Ldi",
+    "accepted": "Yettwaqbel",
+    "accept": "Qbel",
+    "advanced": "Talqayt",
+    "cancel": "Sefsex",
+    "close": "Mdel",
+    "continueStr": "Ddu",
+    "copy": "Nɣel",
+    "decline": "Agi",
+    "done": "Immed",
+    "delete": "Kkes",
+    "edit": "Ẓreg",
+    "error": "Tuccḍa",
+    "example": "Amedya",
+    "files": "Ifuyla",
+    "hide": "Ffer",
+    "restart": "Ales asenker",
+    "settings": "Iɣewwaṛen",
+    "stop": "Ḥbes",
+    "save": "Sekles",
+    "unknown": "Arussin",
+    "add": "Rnu",
+    "confirm": "Sentem"
+  },
+  "receiveTab": {
+    "quickSave": {
+      "on": "@:general.on",
+      "off": "@:general.off",
+      "favorites": "Imenyafen"
+    },
+    "infoBox": {
+      "ip": "IP:",
+      "port": "Tawwurt:",
+      "alias": "Isem n yibenk:"
+    }
+  },
+  "sendTab": {
+    "picker": {
+      "app": "Asnas",
+      "clipboard": "Senteḍ",
+      "file": "Afaylu",
+      "folder": "Akaram",
+      "media": "Amidya",
+      "text": "Aḍris"
+    },
+    "title": "Azen",
+    "selection": {
+      "title": "Tafrant",
+      "files": "Ifuyla: {files}"
+    }
+  },
+  "locale": "Taqbaylit",
+  "appName": "LocalSend"
+}
